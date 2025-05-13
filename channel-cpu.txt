@@ -1,0 +1,41 @@
+PeriodType: cpu nanoseconds
+Period: 10000000
+Time: 2025-05-13 18:40:44.142716 +0200 CEST
+Duration: 20.1
+Samples:
+samples/count cpu/nanoseconds
+         28  280000000: 1 2 3 4 5 6 7 
+         14  140000000: 8 9 10 3 4 5 6 7 
+          1   10000000: 11 12 13 14 15 16 17 18 19 20 21 22 23 
+          1   10000000: 1 2 3 24 5 6 7 
+Locations
+     1: 0x10084a34b M=1 runtime.usleep /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:333:0 s=332
+     2: 0x10080107f M=1 runtime.osyield /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/os_darwin.go:362:0 s=361
+             runtime.lock2 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lock_sema.go:77:0 s=42
+     3: 0x10083ed43 M=1 runtime.lockWithRank /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lockrank_off.go:24:0 s=23
+             runtime.lock /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lock_sema.go:39:0 s=38
+             runtime.sellock /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/select.go:39:0 s=33
+     4: 0x10083f1e7 M=1 runtime.selectgo /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/select.go:234:0 s=121
+     5: 0x100905743 M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*ChannelBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/channel.go:27:0 s=26
+     6: 0x100964267 M=1 main.consume /Users/limoges/Sources/github.com/limoges/tokenbucket/main.go:84:0 s=82
+     7: 0x1009641cb M=1 main.run.func1 /Users/limoges/Sources/github.com/limoges/tokenbucket/main.go:73:0 s=72
+     8: 0x10084a77f M=1 runtime.pthread_cond_wait /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:547:0 s=546
+     9: 0x1008268a3 M=1 runtime.semasleep /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/os_darwin.go:71:0 s=39
+    10: 0x100801117 M=1 runtime.lock2 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lock_sema.go:95:0 s=42
+    11: 0x100844350 M=1 runtime.stackpoolalloc /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:213:0 s=193
+    12: 0x1008445b7 M=1 runtime.stackcacherefill /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:282:0 s=271
+    13: 0x100844b8b M=1 runtime.stackalloc /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:384:0 s=336
+    14: 0x100836887 M=1 runtime.malg.func1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4961:0 s=4960
+    15: 0x100836823 M=1 runtime.malg /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4960:0 s=4956
+    16: 0x1008369f3 M=1 runtime.newproc1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:5002:0 s=4993
+    17: 0x10083693f M=1 runtime.newproc.func1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4979:0 s=4978
+    18: 0x100866a3b M=1 runtime.systemstack /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/asm_arm64.s:244:0 s=207
+    19: 0x1008368ef M=1 runtime.newproc /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4978:0 s=4975
+    20: 0x10096409b M=1 main.run /Users/limoges/Sources/github.com/limoges/tokenbucket/main.go:72:0 s=39
+    21: 0x10094fe23 M=1 github.com/urfave/cli/v3.(*Command).run /Users/limoges/go/pkg/mod/github.com/urfave/cli/v3@v3.3.3/command_run.go:336:0 s=98
+    22: 0x100963e57 M=1 github.com/urfave/cli/v3.(*Command).Run /Users/limoges/go/pkg/mod/github.com/urfave/cli/v3@v3.3.3/command_run.go:94:0 s=93
+             main.main /Users/limoges/Sources/github.com/limoges/tokenbucket/main.go:36:0 s=16
+    23: 0x10082c0d7 M=1 runtime.main /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:272:0 s=147
+    24: 0x10083f61f M=1 runtime.selectgo /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/select.go:338:0 s=121
+Mappings
+1: 0x1007f4000/0x1009b0000/0x0 /Users/limoges/Sources/github.com/limoges/tokenbucket/tokenbucket  [FN]

@@ -1,0 +1,303 @@
+PeriodType: cpu nanoseconds
+Period: 10000000
+Time: 2025-05-13 18:40:22.522568 +0200 CEST
+Duration: 20.7
+Samples:
+samples/count cpu/nanoseconds
+        795 7950000000: 1 2 3 4 5 
+        318 3180000000: 6 7 4 5 
+        993 9930000000: 8 2 3 4 5 
+       1887 18870000000: 7 4 5 
+        303 3030000000: 9 2 3 4 5 
+        900 9000000000: 10 7 4 5 
+         23  230000000: 11 3 4 5 
+        312 3120000000: 12 4 5 
+        919 9190000000: 13 3 4 5 
+        653 6530000000: 14 7 4 5 
+        859 8590000000: 15 4 5 
+        938 9380000000: 16 7 4 5 
+       1673 16730000000: 17 18 2 3 4 5 
+        885 8850000000: 19 4 5 
+        214 2140000000: 20 2 3 4 5 
+         48  480000000: 21 18 2 3 4 5 
+       1070 10700000000: 22 18 2 3 4 5 
+         46  460000000: 23 2 3 4 5 
+        924 9240000000: 24 4 5 
+        943 9430000000: 25 2 3 4 5 
+         48  480000000: 26 27 28 29 30 
+        917 9170000000: 31 7 4 5 
+         37  370000000: 32 7 4 5 
+        942 9420000000: 33 7 4 5 
+        292 2920000000: 34 7 4 5 
+        634 6340000000: 35 2 3 4 5 
+         11  110000000: 36 37 38 39 40 29 30 
+         43  430000000: 41 2 3 4 5 
+          1   10000000: 42 43 44 45 46 
+          7   70000000: 47 14 7 4 5 
+          8   80000000: 48 37 38 39 40 29 30 
+         17  170000000: 47 7 4 5 
+          6   60000000: 47 16 7 4 5 
+          1   10000000: 49 50 51 
+          4   40000000: 52 18 2 3 4 5 
+          7   70000000: 53 38 39 40 29 30 
+          5   50000000: 54 55 56 57 
+          1   10000000: 58 45 46 
+          3   30000000: 59 3 4 5 
+          1   10000000: 60 45 46 
+         11  110000000: 47 24 4 5 
+          1   10000000: 61 50 51 
+         12  120000000: 47 6 7 4 5 
+          9   90000000: 47 10 7 4 5 
+          4   40000000: 47 34 7 4 5 
+         11  110000000: 47 33 7 4 5 
+          7   70000000: 62 38 39 40 29 30 
+          2   20000000: 63 39 40 29 30 
+          1   10000000: 64 65 66 
+          1   10000000: 47 67 68 69 70 5 
+          9   90000000: 47 31 7 4 5 
+          1   10000000: 71 2 3 4 5 
+          7   70000000: 72 73 74 75 76 70 5 
+          3   30000000: 77 7 4 5 
+          1   10000000: 78 43 79 45 46 
+          1   10000000: 80 81 65 66 
+          1   10000000: 82 51 
+          2   20000000: 83 7 4 5 
+          5   50000000: 84 37 38 39 40 29 30 
+          1   10000000: 85 86 87 88 29 30 
+          2   20000000: 89 2 3 4 5 
+          1   10000000: 54 55 90 91 92 93 94 95 30 
+          6   60000000: 96 7 4 5 
+          3   30000000: 97 37 38 39 40 29 30 
+          2   20000000: 98 18 2 3 4 5 
+          1   10000000: 99 100 6 7 4 5 
+          1   10000000: 101 102 103 104 
+          1   10000000: 105 37 38 39 40 29 30 
+          8   80000000: 47 15 4 5 
+          1   10000000: 106 7 4 5 
+          4   40000000: 47 19 4 5 
+          1   10000000: 107 108 109 110 111 112 113 114 39 40 29 30 
+          1   10000000: 115 50 51 
+          1   10000000: 116 2 3 4 5 
+          1   10000000: 117 114 39 40 29 30 
+          1   10000000: 118 119 120 121 122 123 124 125 111 112 113 114 39 40 29 30 
+          1   10000000: 126 38 39 40 29 30 
+          4   40000000: 127 7 4 5 
+          3   30000000: 128 7 4 5 
+          1   10000000: 26 27 129 130 131 132 75 76 70 5 
+          1   10000000: 133 134 95 135 136 137 138 139 130 131 132 75 76 70 5 
+          1   10000000: 140 141 142 143 104 
+          1   10000000: 144 18 2 3 4 5 
+          1   10000000: 145 50 51 
+          1   10000000: 146 75 76 70 5 
+          1   10000000: 147 148 137 138 139 130 131 132 75 76 70 5 
+          1   10000000: 149 7 4 5 
+          1   10000000: 150 38 39 40 29 30 
+          1   10000000: 151 102 40 29 30 
+          1   10000000: 152 7 4 5 
+          1   10000000: 153 154 155 73 74 75 76 70 5 
+          1   10000000: 47 32 7 4 5 
+          1   10000000: 156 45 46 
+          1   10000000: 157 158 134 95 135 136 159 160 161 162 163 164 165 70 5 
+          1   10000000: 166 45 46 
+          1   10000000: 167 79 45 46 
+          1   10000000: 47 168 4 5 
+          1   10000000: 169 18 2 3 4 5 
+Locations
+     1: 0x10078fca0 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:535:0 s=504
+     2: 0x1007905bb M=1 runtime.selectnbrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:773:0 s=772
+     3: 0x10089937f M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:33:0 s=25
+     4: 0x1008f8267 M=1 main.consume /Users/limoges/Sources/github.com/limoges/tokenbucket/main.go:84:0 s=82
+     5: 0x1008f81cb M=1 main.run.func1 /Users/limoges/Sources/github.com/limoges/tokenbucket/main.go:73:0 s=72
+     6: 0x1008262bc M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:439:0 s=438
+     7: 0x100899373 M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:33:0 s=25
+     8: 0x10078fd04 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:540:0 s=504
+     9: 0x10078fc58 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:512:0 s=504
+    10: 0x1008262c4 M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:441:0 s=438
+    11: 0x100790590 M=1 runtime.selectnbrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:772:0 s=772
+    12: 0x100899314 M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:28:0 s=25
+    13: 0x1007905bc M=1 runtime.selectnbrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:773:0 s=772
+    14: 0x1008262e0 M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:441:0 s=438
+    15: 0x100899320 M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:29:0 s=25
+    16: 0x10082628c M=1 sync/atomic.(*Value).Load /opt/homebrew/Cellar/go/1.23.5/libexec/src/sync/atomic/value.go:31:0 s=28
+             context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:439:0 s=438
+    17: 0x10078fb90 M=1 runtime.empty /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:472:0 s=472
+    18: 0x10078fc93 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:525:0 s=504
+    19: 0x100899380 M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:33:0 s=25
+    20: 0x10078fc84 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:525:0 s=504
+    21: 0x10078fbe8 M=1 runtime.empty /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:475:0 s=472
+    22: 0x10078fbf4 M=1 runtime.empty /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:475:0 s=472
+    23: 0x10078fc68 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:520:0 s=504
+    24: 0x100899368 M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:33:0 s=25
+    25: 0x10078fc40 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:504:0 s=504
+    26: 0x1007de34b M=1 runtime.usleep /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:333:0 s=332
+    27: 0x10079507f M=1 runtime.osyield /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/os_darwin.go:362:0 s=361
+             runtime.lock2 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lock_sema.go:77:0 s=42
+    28: 0x1007c89cb M=1 runtime.lockWithRank /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lockrank_off.go:24:0 s=23
+             runtime.lock /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lock_sema.go:39:0 s=38
+             runtime.goschedImpl /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4129:0 s=4106
+    29: 0x1007d9e1b M=1 runtime.gopreempt_m /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4154:0 s=4153
+             runtime.newstack /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:1084:0 s=976
+    30: 0x1007fab3f M=1 runtime.morestack /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/asm_arm64.s:342:0 s=302
+    31: 0x100826250 M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:438:0 s=438
+    32: 0x100826284 M=1 sync/atomic.(*Value).Load /opt/homebrew/Cellar/go/1.23.5/libexec/src/sync/atomic/value.go:30:0 s=28
+             context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:439:0 s=438
+    33: 0x100826288 M=1 sync/atomic.(*Value).Load /opt/homebrew/Cellar/go/1.23.5/libexec/src/sync/atomic/value.go:31:0 s=28
+             context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:439:0 s=438
+    34: 0x1008262e4 M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:441:0 s=438
+    35: 0x10078fc50 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:504:0 s=504
+    36: 0x1007cf0f0 M=1 runtime.runqput /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6697:0 s=6697
+    37: 0x1007ceb7b M=1 runtime.globrunqget /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6552:0 s=6528
+    38: 0x1007c61eb M=1 runtime.findRunnable /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:3326:0 s=3250
+    39: 0x1007c8397 M=1 runtime.schedule /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:3996:0 s=3967
+    40: 0x1007c8a4f M=1 runtime.goschedImpl /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4137:0 s=4106
+    41: 0x10078fcb0 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:535:0 s=504
+    42: 0x1007fcbe8 M=1 runtime.memhash64 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/asm_arm64.s:571:0 s=555
+    43: 0x100798797 M=1 runtime.mapaccess1_fast64 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/map_fast64.go:29:0 s=13
+    44: 0x10088fc9b M=1 runtime/pprof.(*profMap).lookup /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/map.go:65:0 s=28
+    45: 0x100892c17 M=1 runtime/pprof.(*profileBuilder).addCPUData /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/proto.go:338:0 s=278
+    46: 0x10089040f M=1 runtime/pprof.profileWriter /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/pprof.go:870:0 s=864
+    47: 0x1007fd8b0 M=1 runtime.asyncPreempt /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/preempt_arm64.s:7:0 s=6
+    48: 0x1007cf0e0 M=1 runtime.runqput /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6697:0 s=6697
+    49: 0x1007d0b4c M=1 runtime.(*profBuf).read /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/profbuf.go:532:0 s=429
+    50: 0x1007ef427 M=1 runtime/pprof.readProfile /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/cpuprof.go:251:0 s=243
+    51: 0x1008903d3 M=1 runtime/pprof.profileWriter /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/pprof.go:869:0 s=864
+    52: 0x10078fba8 M=1 runtime.empty /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:474:0 s=472
+    53: 0x1007cebb0 M=1 runtime.(*gQueue).pop /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:7012:0 s=7009
+             runtime.globrunqget /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6551:0 s=6528
+    54: 0x1007de28b M=1 runtime.madvise /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:284:0 s=283
+    55: 0x1007affbb M=1 runtime.sysUsedOS /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/mem_darwin.go:33:0 s=29
+             runtime.sysUsed /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/mem.go:77:0 s=75
+             runtime.(*mheap).allocSpan /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/mheap.go:1345:0 s=1169
+    56: 0x1007af7bb M=1 runtime.(*mheap).alloc.func1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/mheap.go:962:0 s=956
+    57: 0x1007faa3b M=1 runtime.systemstack /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/asm_arm64.s:244:0 s=207
+    58: 0x100890004 M=1 runtime/pprof.(*profMap).lookup /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/map.go:56:0 s=28
+    59: 0x1007905a0 M=1 runtime.selectnbrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:772:0 s=772
+    60: 0x10088fb38 M=1 runtime/pprof.(*profMap).lookup /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/map.go:31:0 s=28
+    61: 0x1007d0b50 M=1 runtime.(*profBuf).read /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/profbuf.go:532:0 s=429
+    62: 0x1007ceb9c M=1 runtime.(*gQueue).pop /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:7010:0 s=7009
+             runtime.globrunqget /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6551:0 s=6528
+    63: 0x1007c6c70 M=1 runtime.findRunnable /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:3329:0 s=3250
+    64: 0x100790000 M=1 runtime.(*waitq).enqueue /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:844:0 s=840
+             runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:629:0 s=504
+    65: 0x10078fc33 M=1 runtime.chanrecv1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:489:0 s=488
+    66: 0x10089948b M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).start /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:60:0 s=56
+    67: 0x100806778 M=1 sync.(*Pool).Get /opt/homebrew/Cellar/go/1.23.5/libexec/src/sync/pool.go:157:0 s=131
+    68: 0x100871193 M=1 fmt.newPrinter /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:152:0 s=151
+    69: 0x10087193f M=1 fmt.Fprintln /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:303:0 s=302
+    70: 0x1008f8373 M=1 fmt.Println /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:314:0 s=313
+             main.consume /Users/limoges/Sources/github.com/limoges/tokenbucket/main.go:86:0 s=82
+    71: 0x10078fc90 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:525:0 s=504
+    72: 0x1007f8607 M=1 syscall.syscall /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:28:0 s=25
+    73: 0x10080f527 M=1 syscall.write /opt/homebrew/Cellar/go/1.23.5/libexec/src/syscall/zsyscall_darwin_arm64.go:1709:0 s=1702
+    74: 0x10086269f M=1 syscall.Write /opt/homebrew/Cellar/go/1.23.5/libexec/src/syscall/syscall_unix.go:211:0 s=201
+             internal/poll.ignoringEINTRIO /opt/homebrew/Cellar/go/1.23.5/libexec/src/internal/poll/fd_unix.go:745:0 s=743
+             internal/poll.(*FD).Write /opt/homebrew/Cellar/go/1.23.5/libexec/src/internal/poll/fd_unix.go:381:0 s=367
+    75: 0x1008689bb M=1 os.(*File).write /opt/homebrew/Cellar/go/1.23.5/libexec/src/os/file_posix.go:46:0 s=45
+             os.(*File).Write /opt/homebrew/Cellar/go/1.23.5/libexec/src/os/file.go:195:0 s=191
+    76: 0x100871983 M=1 fmt.Fprintln /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:305:0 s=302
+    77: 0x10082626c M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:438:0 s=438
+    78: 0x1007fcbb0 M=1 runtime.memhash64 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/asm_arm64.s:556:0 s=555
+    79: 0x10088fb83 M=1 runtime/pprof.(*profMap).lookup /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/map.go:41:0 s=28
+    80: 0x1007c07fc M=1 runtime.releaseSudog /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:508:0 s=488
+    81: 0x1007900fb M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:656:0 s=504
+    82: 0x1007ef3d0 M=1 runtime/pprof.readProfile /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/cpuprof.go:243:0 s=243
+    83: 0x1008262dc M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:441:0 s=438
+    84: 0x1007cf120 M=1 runtime.runqput /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6728:0 s=6697
+    85: 0x1007de7ff M=1 runtime.pthread_cond_signal /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:568:0 s=567
+    86: 0x1007ba9f7 M=1 runtime.semawakeup /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/os_darwin.go:84:0 s=77
+    87: 0x100795273 M=1 runtime.unlock2 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lock_sema.go:124:0 s=109
+    88: 0x1007c8a3b M=1 runtime.unlockWithRank /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lockrank_off.go:35:0 s=34
+             runtime.unlock /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lock_sema.go:103:0 s=102
+             runtime.goschedImpl /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4131:0 s=4106
+    89: 0x10078fc5c M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:512:0 s=504
+    90: 0x1007af807 M=1 runtime.(*mheap).allocManual /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/mheap.go:988:0 s=984
+    91: 0x1007d82bb M=1 runtime.stackpoolalloc /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:199:0 s=193
+    92: 0x1007d85b7 M=1 runtime.stackcacherefill /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:282:0 s=271
+    93: 0x1007d8b8b M=1 runtime.stackalloc /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:384:0 s=336
+    94: 0x1007d9867 M=1 runtime.copystack /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:884:0 s=868
+    95: 0x1007d9ebb M=1 runtime.newstack /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:1126:0 s=976
+    96: 0x100826270 M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:438:0 s=438
+    97: 0x1007cf15c M=1 runtime.runqput /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6732:0 s=6697
+    98: 0x10078fba0 M=1 runtime.empty /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:472:0 s=472
+    99: 0x1007bec7c M=1 runtime.asyncPreempt2 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/preempt.go:310:0 s=302
+   100: 0x1007fd94b M=1 runtime.asyncPreempt /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/preempt_arm64.s:47:0 s=6
+   101: 0x1007c5de4 M=1 runtime.execute /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:3228:0 s=3209
+   102: 0x1007c8547 M=1 runtime.schedule /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4046:0 s=3967
+   103: 0x1007c8843 M=1 runtime.park_m /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4103:0 s=4069
+   104: 0x1007fa9a3 M=1 runtime.mcall /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/asm_arm64.s:193:0 s=167
+   105: 0x1007cf0e4 M=1 runtime.runqput /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6697:0 s=6697
+   106: 0x100826278 M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:439:0 s=438
+   107: 0x1007f88f7 M=1 runtime.walltime /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:396:0 s=394
+   108: 0x1007f8e3b M=1 time.now /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/timestub.go:27:0 s=26
+   109: 0x100821d8b M=1 time.Now /opt/homebrew/Cellar/go/1.23.5/libexec/src/time/time.go:1160:0 s=1159
+   110: 0x1008184cb M=1 time.sendTime /opt/homebrew/Cellar/go/1.23.5/libexec/src/time/sleep.go:187:0 s=180
+   111: 0x1007e05f7 M=1 runtime.(*timer).unlockAndRun /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:1109:0 s=1005
+   112: 0x1007e0333 M=1 runtime.(*timers).run /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:994:0 s=960
+   113: 0x1007e012f M=1 runtime.(*timers).check /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:928:0 s=895
+   114: 0x1007c5f5f M=1 runtime.findRunnable /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:3271:0 s=3250
+   115: 0x1007d0a84 M=1 runtime.(*profBuf).read /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/profbuf.go:508:0 s=429
+   116: 0x10078fc60 M=1 runtime.chanrecv /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:512:0 s=504
+   117: 0x1007dfff4 M=1 runtime.(*timers).wakeTime /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:879:0 s=871
+             runtime.(*timers).check /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:899:0 s=895
+   118: 0x1007de423 M=1 runtime.nanotime1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:368:0 s=363
+   119: 0x1007c2423 M=1 runtime.nanotime /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time_nofake.go:33:0 s=32
+             runtime.casgstatus /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:1264:0 s=1175
+   120: 0x1007c19b7 M=1 runtime.ready /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:1034:0 s=1022
+   121: 0x10078f517 M=1 runtime.send.goready.func1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:445:0 s=444
+   122: 0x10078f4ab M=1 runtime.goready /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:444:0 s=443
+             runtime.send /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:333:0 s=305
+   123: 0x10078f2b3 M=1 runtime.chansend /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:223:0 s=171
+   124: 0x100790563 M=1 runtime.selectnbsend /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:753:0 s=752
+   125: 0x1008184ef M=1 time.sendTime /opt/homebrew/Cellar/go/1.23.5/libexec/src/time/sleep.go:187:0 s=180
+   126: 0x1007ceb88 M=1 runtime.globrunqget /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6554:0 s=6528
+   127: 0x10082627c M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:439:0 s=438
+   128: 0x1008262a8 M=1 sync/atomic.(*Value).Load /opt/homebrew/Cellar/go/1.23.5/libexec/src/sync/atomic/value.go:38:0 s=28
+             context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:439:0 s=438
+   129: 0x1007d441b M=1 runtime.lockWithRank /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/lockrank_off.go:24:0 s=23
+             runtime.semacquire1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sema.go:166:0 s=132
+   130: 0x1007f622b M=1 internal/poll.runtime_Semacquire /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sema.go:76:0 s=75
+   131: 0x10085f14b M=1 internal/poll.(*fdMutex).rwlock /opt/homebrew/Cellar/go/1.23.5/libexec/src/internal/poll/fd_mutex.go:154:0 s=117
+   132: 0x100862417 M=1 internal/poll.(*FD).writeLock /opt/homebrew/Cellar/go/1.23.5/libexec/src/internal/poll/fd_mutex.go:239:0 s=238
+             internal/poll.(*FD).Write /opt/homebrew/Cellar/go/1.23.5/libexec/src/internal/poll/fd_unix.go:368:0 s=367
+   133: 0x1007d91bc M=1 runtime.adjustframe /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:661:0 s=660
+   134: 0x1007d9a0f M=1 runtime.copystack /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:945:0 s=868
+   135: 0x1007966fb M=1 runtime.deductAssistCredit /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/malloc.go:1333:0 s=1333
+   136: 0x1007efb47 M=1 runtime.mallocgc /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/malloc.go:1037:0 s=983
+   137: 0x1007967db M=1 runtime.newobject /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/malloc.go:1386:0 s=1385
+   138: 0x1007c070f M=1 runtime.acquireSudog /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:473:0 s=450
+   139: 0x1007d4327 M=1 runtime.semacquire1 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sema.go:149:0 s=132
+   140: 0x1007df6c0 M=1 runtime.(*timer).maybeAdd /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:612:0 s=612
+   141: 0x1007df5cf M=1 runtime.(*timer).modify /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:572:0 s=499
+   142: 0x1007dec2b M=1 runtime.(*timer).reset /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:649:0 s=648
+             runtime.resetForSleep /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/time.go:308:0 s=307
+   143: 0x1007c8743 M=1 runtime.park_m /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4090:0 s=4069
+   144: 0x10078fbe0 M=1 runtime.empty /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:475:0 s=472
+   145: 0x1007d0dc0 M=1 runtime.(*profBuf).read /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/profbuf.go:447:0 s=429
+   146: 0x10086257c M=1 internal/poll.(*FD).Write /opt/homebrew/Cellar/go/1.23.5/libexec/src/internal/poll/fd_unix.go:381:0 s=367
+   147: 0x1007fd574 M=1 runtime.memclrNoHeapPointers /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/memclr_arm64.s:105:0 s=11
+   148: 0x1007eff2b M=1 runtime.mallocgc /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/malloc.go:1165:0 s=983
+   149: 0x100826274 M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:438:0 s=438
+   150: 0x1007cebc4 M=1 runtime.globrunqget /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:6554:0 s=6528
+   151: 0x1007c5d88 M=1 runtime.execute /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:3221:0 s=3209
+   152: 0x10082625c M=1 context.(*cancelCtx).Done /opt/homebrew/Cellar/go/1.23.5/libexec/src/context/context.go:438:0 s=438
+   153: 0x1007c9588 M=1 runtime.reentersyscall /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4392:0 s=4391
+   154: 0x1007f510f M=1 runtime.entersyscall /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/proc.go:4486:0 s=4480
+   155: 0x1007f85f7 M=1 syscall.syscall /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/sys_darwin.go:27:0 s=25
+   156: 0x10088fb10 M=1 runtime/pprof.(*profMap).lookup /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/map.go:28:0 s=28
+   157: 0x1007dae7c M=1 runtime.stackmapdata /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/symtab.go:1309:0 s=1302
+             runtime.(*stkframe).getStackMap /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stkframe.go:232:0 s=157
+   158: 0x1007d9223 M=1 runtime.adjustframe /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/stack.go:692:0 s=660
+   159: 0x1007f6e67 M=1 runtime.growslice /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/slice.go:264:0 s=177
+   160: 0x10086f2ef M=1 fmt.(*buffer).write /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:104:0 s=103
+             fmt.(*fmt).pad /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/format.go:95:0 s=93
+   161: 0x10086fdb7 M=1 fmt.(*fmt).fmtInteger /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/format.go:322:0 s=197
+   162: 0x1008725ff M=1 fmt.(*pp).fmtInteger /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:427:0 s=421
+   163: 0x1008743af M=1 fmt.(*pp).printArg /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:727:0 s=681
+   164: 0x100877d9b M=1 fmt.(*pp).doPrintln /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:1220:0 s=1215
+   165: 0x100871953 M=1 fmt.Fprintln /opt/homebrew/Cellar/go/1.23.5/libexec/src/fmt/print.go:304:0 s=302
+   166: 0x10088ff24 M=1 runtime/pprof.(*profMap).lookup /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/pprof/map.go:45:0 s=28
+   167: 0x10079884c M=1 runtime.mapaccess1_fast64 /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/map_fast64.go:44:0 s=13
+   168: 0x100899324 M=1 github.com/limoges/tokenbucket/internal/tokenbucket.(*CASBucket).Take /Users/limoges/Sources/github.com/limoges/tokenbucket/internal/tokenbucket/cas_bucket.go:31:0 s=25
+   169: 0x10078fbac M=1 runtime.empty /opt/homebrew/Cellar/go/1.23.5/libexec/src/runtime/chan.go:474:0 s=472
+Mappings
+1: 0x100788000/0x100944000/0x0 /Users/limoges/Sources/github.com/limoges/tokenbucket/tokenbucket  [FN]
